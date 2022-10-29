@@ -1,3 +1,3 @@
 # NewsChecker
-Created with help from Alfonso Barragán Carmona
-@AlfonsoBarragan
+Created with help from Alfonso Barragán Carmona(@AlfonsoBarragan)
+
